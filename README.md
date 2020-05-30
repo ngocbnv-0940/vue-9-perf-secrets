@@ -1,4 +1,4 @@
-# Xin chào c
+# Về Gridsome
 
 [Slides](https://slides.com/akryum/vueconfus-2019)
 
